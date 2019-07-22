@@ -1,0 +1,11 @@
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\bin\Debug\netcoreapp2.2\Ping-Pong-MSTest.deps.json
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\bin\Debug\netcoreapp2.2\Ping-Pong-MSTest.dll
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\bin\Debug\netcoreapp2.2\Ping-Pong-MSTest.pdb
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.dll
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\obj\Debug\netcoreapp2.2\Ping-Pong-MSTest.pdb
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\bin\Debug\netcoreapp2.2\Ping-Pong-MSTest.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Ping-Pong-MSTest.Solution\Ping-Pong-MSTest\bin\Debug\netcoreapp2.2\Ping-Pong-MSTest.runtimeconfig.dev.json
